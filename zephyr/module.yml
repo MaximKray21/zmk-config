@@ -1,3 +1,2 @@
-build:
-  settings:
-    board_root: .
+module:
+  name: tbk_mini_config
