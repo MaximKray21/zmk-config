@@ -1,2 +1,6 @@
 module:
   name: tbk_mini_config
+build:
+  settings:
+    board_root: config
+    dts_root: config
